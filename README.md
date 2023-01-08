@@ -1,2 +1,2 @@
-# luigi-vetere.github.io
+# Luigi-Vetere.github.io
 Our first try
